@@ -48,11 +48,12 @@ The Michael C. Rockefeller Wing encompasses many very different countries/cultur
 Met’s data can be inconsistent and overly general
 Any museum data requires careful review, ideally by field experts
 
-# Further Uses
+# Further Uses / Future Directions
 
-Research more specific locations for objects
-Contributions from experts and cultural representatives
-Produce fine-grained data about objects and their corresponding cultures
+There are several pontential enhancements for this project:
+- Research could be performed to determine more specific locations of origin for objects (rather than just their country)
+- Contributions from experts and cultural representatives
+- Fine-grained data could be created about objects and their corresponding cultures
 Create map that reflects concentrations of objects
 Determine other trends in the Met's collecting practices, such as the gender of the artists, the cultural classifications, or the number of objects in each department.
 
