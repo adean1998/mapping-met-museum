@@ -44,6 +44,8 @@ I created two Google My Maps with the data. The first has all of the objects in 
 
 # Project & Findings
 
+Mapping the Met's "Highlights" 
+
 2,765 Objects in API listed as “Highlights,” only 895 had country information
 Over 1,000 “Highlights” lack country/culture information
 Some countries have no objects in the “Highlights” section at all
@@ -55,11 +57,11 @@ Any museum data requires careful review, ideally by field experts
 # Further Uses / Future Directions
 
 There are several pontential enhancements for this project:
-- Research could be performed to determine more specific locations of origin for objects (rather than just their country)
-- Contributions from experts and cultural representatives
-- Fine-grained data could be created about objects and their corresponding cultures
-Create map that reflects concentrations of objects
-Determine other trends in the Met's collecting practices, such as the gender of the artists, the cultural classifications, or the number of objects in each department.
+- Research could be performed to determine more specific locations of origin for objects (rather than just grouping them by country).
+- Contributions from cultural representatives could provide insights into the works' culture- and location-based classifications.
+- Fine-grained data from cultural representatives and other experts could enhance object metadata and tombstone information.
+- The data could be used to create maps that reflect concentrations of objects in various locations.
+- This data could also help determine other trends in the Met's collecting practices, such as the gender of the artists, the cultural classifications, or the number of objects in each department.
 
 # Files List
 - A csv 
@@ -67,91 +69,7 @@ Determine other trends in the Met's collecting practices, such as the gender of 
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -160,25 +78,3 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
