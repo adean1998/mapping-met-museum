@@ -45,15 +45,23 @@ I created two Google My Maps with the data. The first has all of the objects in 
 
 # Project & Findings
 
-Mapping the Met's "Highlights" 
 
+
+Mapping the Met's "Highlights" brought several trends and issues to light. 
+
+- **Over 1,000 “Highlights” lack country/culture information.**
 2,765 Objects in API listed as “Highlights,” only 895 had country information
-Over 1,000 “Highlights” lack country/culture information
-Some countries have no objects in the “Highlights” section at all
-31 countries represented in MCRW department
-The Michael C. Rockefeller Wing encompasses many very different countries/cultures
-Met’s data can be inconsistent and overly general
-Any museum data requires careful review, ideally by field experts
+
+
+- **Some countries have no objects in the “Highlights” section at all.** This is especially true of countries in Central Asia
+
+
+- **The Michael C. Rockefeller Wing encompasses many very different countries/cultures.**
+31 countries across five continents are represented in the department
+
+- **Met’s data can be inconsistent, incomplete, and overly general**
+
+- **Any museum data requires careful review, ideally by field experts**
 
 # Further Uses / Future Directions
 
@@ -74,7 +82,7 @@ There are several pontential enhancements for this project:
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.dev/adean1998/mapping-met-museum/mapping_met_images/highlights.png)
 
 ### Large image
 
