@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Mapping the Met
 
 # Project Description
 This project seeks to highlight biases and patterns in the Metropolitan Museum of Art's collecting practices by mapping the locations of their "Highlights" works. The Met "Highlights" are objects that the museum describes as "popular or important." This type of subjective classification is prone to bias on the part of those who are selecting these works, and by mapping their locations of origins, we can determine if biases are present and if they are location- or culture-based. 
