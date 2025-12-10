@@ -7,9 +7,9 @@ Museums' collecting and curation practices are inherently biased, especially at 
 # Workflow
 This project uses the Metropolitan Museum of Art's API to map works' locations/cultures of origin via Plotly. First, all of the works that are classified as highlights must be compiled into a csv file that lists basic information about them as well as their locations of origin. Next, the data will be entered into Plotly to create a map of the works' locations of origin. Finally, this information will be entered into a github site which will function as a platform to display and discuss findings. 
 
-# further uses: in what ways might someone build on this work or re-use your code.
+# Further Uses
 The code used in this project might be repurposed to determine other trends in the Met's collecting practices, such as the gender of the artists, the cultural classifications, or the number of objects in each department.
 
-# files list: a list of files relevant to the project (python notebooks, csv files, etc) and a brief description of what each file contains
+# Files List
 - A csv file with the artwork data
 - A Plotly map showing the data
