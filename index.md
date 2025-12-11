@@ -22,7 +22,7 @@ This project uses the Metropolitan Museum of Art's API to map works' locations/c
 Gaining an understanding of the Met API and its data is crucial to utilizing it properly. The Met "Highlights" are listed in the API and searchable.
 
 ## Extract object data & create CSV files 
-I created a dataframe with all of the Highlights objects on the API and included the following information
+I created a dataframe with all of the Highlights objects on the API and included the following information:
 * Title
 * Artist
 * Artist gender
