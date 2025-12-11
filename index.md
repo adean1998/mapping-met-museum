@@ -37,7 +37,7 @@ I then filtered the data, removing all objects that did not have a country assoc
 In this step, I opened the CSV file on Google Sheets and looked over the information on objects to make sure it was correct. I also reformatted the file so that it looked cleaner in Google My Maps. I added object links to each object in the list so that a user can easily access it on the Met's website. Finally, I created a new set of CSV files with the objects separated by department. 
 
 ## Upload to Google My Maps
-I created two Google My Maps with the data. The first has all of the objects in one layer, color-coded by department. The second has the objects divided into layers by department. 
+I created two Google My Maps with the data. The first has all of the objects in one layer, color-coded by department. The second has the objects divided into layers by department, so that objects from each department can be viewed as a group or all together. 
 
 # Project & Findings
 
