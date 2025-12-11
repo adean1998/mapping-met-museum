@@ -76,7 +76,7 @@ The countries represented in the Michael C. Rockefeller Wing
 
 - **Met’s data can be inconsistent, incomplete, and overly general.**
 
-- **Any museum data requires careful review, ideally by field experts**
+- **Any museum data requires careful, manual review, ideally by field experts.**
 
 # Further Uses / Future Directions
 
