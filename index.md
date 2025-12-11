@@ -61,7 +61,7 @@ I created two maps, both of which illustrated trends in the museum's collecting 
 On both maps, a user can click on an object and view information about it, as well as access a link to the object's page on the Met's website.
 
 ![Tombstone information about an object](image-6.png)
-Tombstone information about an object
+Tombstone information about an object 
 
 ![Met object page](image-8.png)
 Met Museum's page for an object in its collection
