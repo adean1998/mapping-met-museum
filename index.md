@@ -5,9 +5,6 @@ layout: default
 
 # Project Description
 This project seeks to highlight biases and patterns in the Metropolitan Museum of Art's collecting practices by mapping the locations of their "Highlights" works. The Met "Highlights" are objects that the museum describes as "popular or important." This type of subjective classification is prone to bias on the part of those who are selecting these works, and by mapping their locations of origins, we can determine if biases are present and if they are location- or culture-based. 
-### Small image
-
-![Highlights](https://github.githubassets.com/images/assets/highlights.png)
 
 ## Research Question
 _Can mapping the locations of origin for the Met’s “Highlights” demonstrate biases or other patterns in the museum’s collecting and curation practices?_
@@ -45,7 +42,9 @@ I created two Google My Maps with the data. The first has all of the objects in 
 
 # Project & Findings
 
+[Mapping the Met](https://www.google.com/maps/d/edit?mid=1Z_kh9Ygs5CHEwkHTZ6hOs6_4JVG7iiU&ll=0.8142718522168337%2C0&z=2)
 
+[Mapping the Met by Department](https://www.google.com/maps/d/u/0/edit?mid=1ubRvCLT54xNSAmxdD0RcaZeIrjXK13A&ll=3.724678106208671%2C0&z=2)
 
 Mapping the Met's "Highlights" brought several trends and issues to light. 
 
@@ -73,10 +72,10 @@ There are several pontential enhancements for this project:
 - This data could also help determine other trends in the Met's collecting practices, such as the gender of the artists, the cultural classifications, or the number of objects in each department.
 
 # Files List
-- A csv 
-- A Plotly map showing the data
-
-[Link to another page](./another-page.html).
+- **METcountries.ipynb**:
+A python notebook with all of the code for creating a dataframe with Highlights from the Met API
+- **mappingthemetMAP.csv**: A CSV file with all the Highlights in a dataframe, edited for clarity and compatibility with Google MyMaps
+- **Department CSVs**: CSVs with all artworks sorted by department
 
 
 
