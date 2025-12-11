@@ -79,7 +79,8 @@ Of 2,765 Objects in the API listed as “Highlights,” only 895 had country inf
 ![Country count](image-10.png)
 Chart showing the number of works from each country listed
 
-![Countries with the most highlights](image-11.png)
+## ![Countries with the most highlights](image-11.png)
+
 Countries with the most "Highlights" in the Met's collection.
 
 **Some countries have no objects in the “Highlights” section at all.** This is especially true of countries in Central Asia and Africa. The United States and countries from Europe had the highest number of "Highlights", showing overrepresentation of white, Western cultures in this category.
