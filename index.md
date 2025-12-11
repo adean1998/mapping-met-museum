@@ -6,7 +6,7 @@ layout: default
 # Project Description
 This project seeks to identify biases and patterns in the Metropolitan Museum of Art's collecting practices by mapping the locations of their "Highlights" works. The Met "Highlights" are objects in the museum's collection that have been categorized as "popular or important." This type of subjective classification is prone to bias on the part of those who are selecting these works, and by mapping their locations of origins, we can determine if biases are present and if they are location- or culture-based. 
 
-![alt text](image.png) The Met API's description of its criteria for "Highlights" 
+![The Met API's description of its criteria for "Highlights"](image.png) The Met API's description of its criteria for "Highlights" 
 
 ## Research Question
 _Can mapping the locations of origin for the Met’s “Highlights” demonstrate biases or other patterns in the museum’s collecting and curation practices?_
@@ -84,7 +84,7 @@ Countries with the most "Highlights" in the Met's collection.
 
 **Some countries have no objects in the “Highlights” section at all.** This is especially true of countries in Central Asia and Africa. The United States and countries from Europe had the highest number of "Highlights", showing overrepresentation of white, Western cultures in this category.
 
-![alt text](image-3.png)
+![Countries in MCRW](image-3.png)
 The countries represented in the Michael C. Rockefeller Wing
 
 - **The Michael C. Rockefeller Wing encompasses many very different countries/cultures.**
