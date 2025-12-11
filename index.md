@@ -55,7 +55,7 @@ Mapping the Met's "Highlights" brought several trends and issues to light.
 
 
 - **The Michael C. Rockefeller Wing encompasses many very different countries/cultures.**
-31 countries across five continents are represented in the department
+31 countries across five continents are represented in the department.
 
 - **Met’s data can be inconsistent, incomplete, and overly general**
 
