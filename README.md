@@ -11,5 +11,7 @@ This project uses the Metropolitan Museum of Art's API to map works' locations/c
 The code used in this project might be repurposed to determine other trends in the Met's collecting practices, such as the gender of the artists, the cultural classifications, or the number of objects in each department.
 
 # Files List
-- A csv file with the artwork data
-- A Plotly map showing the data
+- **METcountries.ipynb**:
+A python notebook with all of the code for creating a dataframe with Highlights from the Met API
+- **mappingthemetMAP.csv**: A CSV file with all the Highlights in a dataframe, edited for clarity and compatibility with Google MyMaps
+- **Department CSVs**: CSVs with all artworks sorted by department

@@ -21,13 +21,12 @@ This project uses the Metropolitan Museum of Art's API to map works' locations/c
 ## Research Met API
 Gaining an understanding of the Met API and its data is crucial to utilizing it properly. The Met "Highlights" are listed in the API and searchable.
 
-## Extract object data & create CSV files
-The Met's "Highlights" are 
+## Extract object data & create CSV files 
 I created a dataframe with all of the Highlights objects on the API and included the following information
 * Title
 * Artist
 * Artist gender
-* Earliest & Latest date of creation 
+* Earliest & latest possible date of creation 
 * Department
 * Culture
 * Country
@@ -35,7 +34,7 @@ I created a dataframe with all of the Highlights objects on the API and included
 I then filtered the data, removing all objects that did not have a country associated with them. In a preliminary version, I also added ISO_Alpha3 country codes to the dataframe, in case this made mapping simpler. 
 
 ## Edit CSV Files
-In this step, I opened the CSV file on Google Sheets and looked over the information on objects to make sure it was correct. I also reformatted the CSV so that it looked cleaner in Google My Maps. I added object links to each object in the list so that a user can easily access the object on the Met's website. Finally, I created a new set of CSV files with the objects separated by department. 
+In this step, I opened the CSV file on Google Sheets and looked over the information on objects to make sure it was correct. I also reformatted the file so that it looked cleaner in Google My Maps. I added object links to each object in the list so that a user can easily access it on the Met's website. Finally, I created a new set of CSV files with the objects separated by department. 
 
 ## Upload to Google My Maps
 I created two Google My Maps with the data. The first has all of the objects in one layer, color-coded by department. The second has the objects divided into layers by department. 
