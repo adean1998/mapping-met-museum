@@ -75,13 +75,3 @@ There are several pontential enhancements for this project:
 A python notebook with all of the code for creating a dataframe with Highlights from the Met API
 - **mappingthemetMAP.csv**: A CSV file with all the Highlights in a dataframe, edited for clarity and compatibility with Google MyMaps
 - **Department CSVs**: CSVs with all artworks sorted by department
-
-
-
-### Small image
-
-![Octocat](https://github.dev/adean1998/mapping-met-museum/mapping_met_images/highlights.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
