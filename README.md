@@ -1,7 +1,10 @@
 # Mapping the Met
 
 # Project Description
-This project seeks to highlight biases and patterns in the Metropolitan Museum of Art's collecting practices by mapping the locations of their "Highlights" works. The Met "Highlights" are objects that museum staff have presumably categorized as high-quality or culturally significant. This type of subjective classification is prone to bias on the part of those selecting these works, and by mapping their locations of origins, we can determine if biases are present and if they are location- or culture-based. 
+This project seeks to highlight biases and patterns in the Metropolitan Museum of Art's collecting practices by mapping the locations of their "Highlights" works. The Met "Highlights" are objects that museum staff have presumably categorized as high-quality or culturally significant. This type of subjective classification is prone to bias on the part of those selecting these works, and by mapping their locations of origins, we can determine if biases are present and if they are location- or culture-based. Access the project at the link below!
+
+https://adean1998.github.io/mapping-met-museum/
+
 # Rationale Statement
 Museums' collecting and curation practices are inherently biased, especially at large museums with objects from a range of cultures. In the United States, museums often prioritize the display and study of works from white, Western societies. Through data visualization, this project attempts to determine whether the objects that the Met considers significant are mostly from these cultures, or if any other patterns emerge from the data.
 # Workflow
